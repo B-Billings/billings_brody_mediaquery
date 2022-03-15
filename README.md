@@ -8,7 +8,7 @@ This is the submission file for the Media Query assignment by Brody B
 
 ***
 1. Clone it to your PC/Mac
-2. Open the folder in your Visual Studio Code/Sublime Text or Atom **(currently having issues with Atom but works with VS code)**
+2. Open the folder in your Visual Studio Code/Sublime Text or Atom
 3. Right click on the "index" and select open in default browser
 4. Enjoy!
 
