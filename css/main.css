@@ -13,13 +13,12 @@ body{
   flex-wrap: wrap;
 }
 .box{
-  padding: 20px
-  text-align:center;
+  padding: 20px;
+  text-align: center;
   margin: 10px;
   height: 400px;
   flex: 1 1 auto;
 }
-@media screen and (max-width: 641px) {
 
 .box1{
   background-color: #FFC0CB;
@@ -36,7 +35,6 @@ body{
 .box4{
   display: none;
 }
-}
 
 @media screen and (min-width: 641px) {
   .container{
@@ -52,13 +50,13 @@ body{
   }
 
   .box3{
+    display: block;
     background-color: #808080;
   }
 
   .box4{
+    display: block;
   background-color: #964B00;
   }
-
-
 
 }
